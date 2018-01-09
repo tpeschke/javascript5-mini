@@ -1,0 +1,20 @@
+{
+  "name": "javascript5-mini",
+  "version": "1.0.0",
+  "description": "- Become more proficient in debugging while fixing common bugs.\r - Add another skill by learning how to use underscore.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpeschke/javascript5-mini.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpeschke/javascript5-mini/issues"
+  },
+  "homepage": "https://github.com/tpeschke/javascript5-mini#readme"
+}
